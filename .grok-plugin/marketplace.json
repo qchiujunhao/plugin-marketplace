@@ -12,7 +12,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/goeckslab/galaxy-plugin.git",
-        "sha": "adfb2552bdd93012e5befd75d35f6098b5011762",
+        "sha": "c8e22663fb89a4df32c578bc0bdf0d21ee443542",
         "path": "plugins/galaxy-plugin"
       },
       "homepage": "https://github.com/goeckslab/galaxy-plugin",

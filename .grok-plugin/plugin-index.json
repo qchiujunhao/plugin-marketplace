@@ -398,13 +398,13 @@
       }
     },
     "galaxy-plugin": {
-      "sha": "adfb2552bdd93012e5befd75d35f6098b5011762",
+      "sha": "c8e22663fb89a4df32c578bc0bdf0d21ee443542",
       "version": "0.4.1",
       "components": {
         "mcpServers": [
           {
             "name": "galaxy",
-            "description": "stdio"
+            "description": "http"
           }
         ],
         "skills": [
